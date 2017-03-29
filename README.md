@@ -21,7 +21,7 @@ Server part is taken from [http://github.com/prose/gatekeeper](http://github.com
 ## How to run?
 
 Register an application with GitHub and put ClientID and Client Secret into the `server/config.json`
-
+Also add ClientId into `Models.elm`, line 44
 
 Start server with:
 

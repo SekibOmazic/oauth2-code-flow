@@ -41,7 +41,7 @@ type alias OAuthConfig =
 
 config : OAuthConfig
 config =
-    { client = "a016751aae82c417a07d"
+    { client = "YOUR-GITHUB-APP-CLINET-ID"
     , url = "https://github.com/login/oauth/authorize"
     , redirect = "http://localhost:8000"
     , scope = [ "user" ]
