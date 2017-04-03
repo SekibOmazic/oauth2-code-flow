@@ -37,3 +37,8 @@ Start client with:
 1. Open another terminal
 2. `yarn` (this will install all dependencies)
 3. `yarn start` - this will run the Webpack in development mode on port 8000
+
+
+## Interested in OAuth2 implicit flow?
+
+I have basic implementation [here](https://github.com/SekibOmazic/oauth2-implicit-flow)
